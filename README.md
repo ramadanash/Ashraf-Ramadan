@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashraf Ramadan</h1>
+<h1 align="center">Hi 👋, I'm </h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ashraf-ramadan-866643296">
